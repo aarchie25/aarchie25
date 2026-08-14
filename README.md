@@ -40,8 +40,8 @@ That interest led me to build **[MapMind](https://github.com/aarchie25/mapmind)*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aarchie25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarchie25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
+<img src="https://github-readme-stats.athul.dev/api?username=aarchie25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
+<img src="https://github-readme-stats.athul.dev/api/top-langs/?username=aarchie25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
 
 </div>
 
