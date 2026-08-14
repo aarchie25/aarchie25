@@ -215,7 +215,7 @@ My direction is combining **strong software engineering fundamentals with modern
 
 ---
 
-## `> connect`
+
 
 ## `> connect`
 
