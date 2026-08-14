@@ -132,7 +132,7 @@ Academic engineering project implementing a programming-language pipeline from s
 
 <br>
 
-**[Explore YADA →](https://github.com/akuma579/SER502-Yada-Team14)**
+
 
 </td>
 
