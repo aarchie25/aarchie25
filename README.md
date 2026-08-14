@@ -10,13 +10,18 @@
 
 ## `> whoami`
 
-I'm a software engineer focused on the intersection of **backend engineering and applied AI** — particularly systems where models interact with real data, APIs, tools, and infrastructure.
+## `> whoami`
 
-I care about what happens beyond the model call: **architecture, retrieval, data flow, reliability, evaluation, latency, and deployment**.
+I'm a software engineer focused on building **reliable, maintainable, and scalable software systems** with strong foundations in software design and problem solving.
 
-That interest led me to build **[MapMind](https://github.com/aarchie25/mapmind)**, an LLM-powered geospatial assistant that reasons over real-world map data rather than relying solely on a model's internal knowledge.
+My interests span **data structures & algorithms, object-oriented design, backend architecture, databases, API design, testing, system design, and distributed systems** — with an emphasis on understanding the engineering trade-offs behind how software is designed, built, and operated.
 
-> **Build it end-to-end. Understand the trade-offs. Make it reliable.**
+I apply those foundations through projects like **[MapMind](https://github.com/aarchie25/mapmind)**, where I combined backend development, API integration, geospatial data processing, and LLM capabilities into an end-to-end application.
+
+I'm particularly interested in engineering systems that move beyond prototypes — with attention to **clean architecture, performance, reliability, scalability, testing, and maintainability**.
+
+> **Design with intent. Build end-to-end. Understand the trade-offs.**
+
 
 ---
 
