@@ -205,17 +205,6 @@ My direction is combining **strong software engineering fundamentals with modern
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aarchie25/aarchie25/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
-</div>
-
----
-
-
 
 ## `> connect`
 
