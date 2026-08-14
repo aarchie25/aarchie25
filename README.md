@@ -217,16 +217,23 @@ My direction is combining **strong software engineering fundamentals with modern
 
 ## `> connect`
 
+## `> connect`
+
 <div align="center">
 
 Open to conversations and opportunities across **Software Engineering · Backend Engineering · AI Engineering**
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarchi_Narula-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aarchi-narula-969220402/)
-[![Email](https://img.shields.io/badge/Email-aarchiln%40asu.edu-8C1D40?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aarchiln@asu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aarchi-narula-969220402/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-8C1D40?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aarchiln@asu.edu)
 
 <br><br>
+
+### `Build → Measure → Learn → Improve → Ship`
+
+</div>
+
 
 ### `Build → Measure → Learn → Improve → Ship`
 
