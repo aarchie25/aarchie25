@@ -28,16 +28,28 @@ I'm particularly interested in engineering systems that move beyond prototypes �
 ## 🛠️ Engineering Stack
 
 ### Languages
-`Python` `TypeScript` `JavaScript` `SQL`
 
-### Backend & APIs
-`FastAPI` `REST APIs` `Streamlit`
+`Python` · `TypeScript` · `JavaScript` · `SQL`
 
-### AI & Data
-`LLM Integration` `Groq` `GeoPandas` `OSMnx`
+### Software Engineering
 
-### Engineering Tools
-`Git` `GitHub` `VS Code`
+`Data Structures & Algorithms` · `OOP` · `RESTful API Design` · `Software Architecture` · `Design Patterns` · `Testing & Debugging`
+
+### Backend & Web
+
+`FastAPI` · `REST APIs` · `Client-Server Architecture` · `Authentication & Authorization` · `API Integration`
+
+### Databases
+
+`SQL` · `Relational Databases` · `Data Modeling` · `Database Design`
+
+### Systems & Infrastructure
+
+`Linux` · `Git` · `GitHub` · `CI/CD` · `Docker` · `Cloud Deployment`
+
+### Applied AI & Data
+
+`LLM Integration` · `Groq` · `GeoPandas` · `OSMnx`
 
 ---
 
