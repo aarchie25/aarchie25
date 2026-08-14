@@ -68,7 +68,7 @@ Built end-to-end for a technical interview with ASU's SHARES research program. M
 
 #### Architecture
 
-```text
+```text id="r5v5jx"
 Natural Language Query
         │
         ▼
@@ -109,7 +109,7 @@ Designed around a REST-based architecture with a Python backend and TypeScript f
 
 YADA implements a language-processing pipeline spanning lexical analysis, parsing, semantic processing, and runtime execution.
 
-```text
+```text id="m1r0pu"
 Source Code
     │
     ▼
@@ -167,7 +167,7 @@ Engineering beyond model inference — **retrieval quality, latency, evaluation,
 
 ## 🧭 Engineering Direction
 
-```text
+```text id="qpbjqc"
                     Software Engineering
                            │
            ┌───────────────┼───────────────┐
@@ -205,7 +205,6 @@ My direction is combining **strong software engineering fundamentals with modern
 
 ---
 
-
 ## `> connect`
 
 <div align="center">
@@ -214,8 +213,12 @@ Open to conversations and opportunities across **Software Engineering · Backend
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aarchi-narula-969220402/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-8C1D40?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aarchiln@asu.edu)
+<a href="https://www.linkedin.com/in/aarchi-narula-969220402/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:aarchiln@asu.edu">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-8C1D40?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 <br><br>
 
@@ -223,10 +226,6 @@ Open to conversations and opportunities across **Software Engineering · Backend
 
 </div>
 
-
-### `Build → Measure → Learn → Improve → Ship`
-
-</div>
 
 
 
