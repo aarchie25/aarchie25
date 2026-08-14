@@ -223,9 +223,7 @@ Open to conversations and opportunities across **Software Engineering · Backend
 
 </div>
 
-### `Build → Measure → Learn → Improve → Ship`
 
-</div>
 
 
 
