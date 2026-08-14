@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aarchi Narula
+# Hey, I'm Aarchi 👋
 
 ### `Software Engineering × Backend Systems × Applied AI`
 
