@@ -207,40 +207,38 @@ My direction is combining **strong software engineering fundamentals with modern
 
 ## 🤝 Let's Connect
 
-<div align="center">
-
 ### Have an interesting engineering problem? Let's talk.
 
-Open to opportunities and collaborations across
-**Software Engineering · Backend Systems · AI Engineering**
+I'm open to opportunities and collaborations across **Software Engineering · Backend Systems · AI Engineering**.
 
 <br>
 
-<a href="https://www.linkedin.com/in/aarchi-narula-969220402/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:aarchiln@asu.edu">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<table>
+<tr>
+<td align="center" width="280">
 
-<br><br>
+### 💼 LinkedIn
 
-```text id="n9cv48"
-while (curious) {
-    build();
-    breakThings();
-    understandWhy();
-    buildBetter();
-}
-```
+Connect with me professionally,
+talk engineering, or discuss opportunities.
 
-<sub>Always building. Always iterating.</sub>
+**[→ Connect on LinkedIn](https://www.linkedin.com/in/aarchi-narula-969220402/)**
 
-</div>
+</td>
 
+<td align="center" width="280">
 
+### ✉️ Email
 
+Have a role, project, or
+interesting problem in mind?
 
+**[→ Send me a message](mailto:aarchiln@asu.edu)**
 
+</td>
+</tr>
+</table>
 
+<br>
+
+> **Interested in building systems that are useful, scalable, and increasingly intelligent.**
