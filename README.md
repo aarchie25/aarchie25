@@ -205,21 +205,37 @@ My direction is combining **strong software engineering fundamentals with modern
 
 ---
 
-## `> connect`
+## 🤝 Let's Connect
 
 <div align="center">
 
-Open to conversations and opportunities across **Software Engineering · Backend Engineering · AI Engineering**
+### Have an interesting engineering problem? Let's talk.
+
+Open to opportunities and collaborations across
+**Software Engineering · Backend Systems · AI Engineering**
+
+<br>
+
+<a href="https://www.linkedin.com/in/aarchi-narula-969220402/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:aarchiln@asu.edu">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/aarchi-narula-969220402/"><strong>LinkedIn</strong></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:aarchiln@asu.edu"><strong>Email</strong></a>
+```text id="n9cv48"
+while (curious) {
+    build();
+    breakThings();
+    understandWhy();
+    buildBetter();
+}
+```
 
-<br><br>
-
-### `Build → Measure → Learn → Improve → Ship`
+<sub>Always building. Always iterating.</sub>
 
 </div>
 
