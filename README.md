@@ -10,8 +10,6 @@
 
 ## `> whoami`
 
-## `> whoami`
-
 I'm a software engineer focused on building **reliable, maintainable, and scalable software systems** with strong foundations in software design and problem solving.
 
 My interests span **data structures & algorithms, object-oriented design, backend architecture, databases, API design, testing, system design, and distributed systems** — with an emphasis on understanding the engineering trade-offs behind how software is designed, built, and operated.
