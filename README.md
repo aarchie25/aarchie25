@@ -213,14 +213,15 @@ Open to conversations and opportunities across **Software Engineering · Backend
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/aarchi-narula-969220402/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:aarchiln@asu.edu">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-8C1D40?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<a href="https://www.linkedin.com/in/aarchi-narula-969220402/"><strong>LinkedIn</strong></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:aarchiln@asu.edu"><strong>Email</strong></a>
 
 <br><br>
+
+### `Build → Measure → Learn → Improve → Ship`
+
+</div>
 
 ### `Build → Measure → Learn → Improve → Ship`
 
