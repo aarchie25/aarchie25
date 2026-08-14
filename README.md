@@ -16,8 +16,6 @@ I care about what happens beyond the model call: **architecture, retrieval, data
 
 That interest led me to build **[MapMind](https://github.com/aarchie25/mapmind)**, an LLM-powered geospatial assistant that reasons over real-world map data rather than relying solely on a model's internal knowledge.
 
-I'm developing deeper engineering depth across **distributed systems, backend architecture, algorithms, and production AI systems**.
-
 > **Build it end-to-end. Understand the trade-offs. Make it reliable.**
 
 ---
@@ -35,6 +33,17 @@ I'm developing deeper engineering depth across **distributed systems, backend ar
 
 ### Engineering Tools
 `Git` `GitHub` `VS Code`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aarchie25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarchie25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
+
+</div>
 
 ---
 
@@ -119,28 +128,11 @@ Source Code
 
 ---
 
-## 🎯 Current Engineering Focus
+## 🎯 Currently Working On
 
-### 🏗️ System Design & Distributed Systems
-Architectural patterns and trade-offs behind scalable systems — **caching, database design, consistency, asynchronous processing, fault tolerance, horizontal scaling, and distributed communication**.
-
-### ⚙️ Backend Engineering
-Backend services with emphasis on **API architecture, authentication, data modeling, testing, performance, concurrency, and maintainable service boundaries**.
-
-### 🤖 AI Engineering
-Production-oriented LLM systems involving **retrieval-augmented generation, embeddings, vector search, structured outputs, tool calling, agents, and evaluation pipelines**.
-
-### ☁️ Cloud & Platform Engineering
-Production workflows around **containerization, CI/CD, cloud deployment, observability, monitoring, and infrastructure reliability**.
-
-### 🧠 Algorithms & Problem Solving
-Algorithmic problem solving through **data structures, complexity analysis, optimization, and reusable problem-solving patterns**.
-
----
-
-## 🔭 On My Radar
-
-`System Design` · `Distributed Systems` · `PostgreSQL` · `Caching` · `Docker` · `CI/CD` · `AWS` · `RAG` · `Vector Search` · `AI Agents` · `Observability`
+- Deepening backend fundamentals — API design, data modeling, testing — through coursework and MapMind's next iteration
+- Learning system design basics: caching, database design, and how services scale
+- Exploring RAG and retrieval patterns as a natural extension of what MapMind already does
 
 ---
 
